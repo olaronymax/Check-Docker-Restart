@@ -1,0 +1,16 @@
+{
+  "name": "docker-monitoring-script",
+  "version": "1.0.0",
+  "description": "Script de monitoramento do Docker para reiniciar a API caso ela fique fora do ar",
+  "author": "Rony Max",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olaronymax/docker-monitoring-script"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dockerode": "^3.3.5",
+    "mysql": "^2.18.1",
+    "ssh2": "^1.13.0"
+  }
+}
