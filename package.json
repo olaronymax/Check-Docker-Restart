@@ -1,11 +1,11 @@
 {
-  "name": "docker-monitoring-script",
+  "name": "check-docker-restart",
   "version": "1.0.0",
   "description": "Script de monitoramento do Docker para reiniciar a API caso ela fique fora do ar",
   "author": "Rony Max",
   "repository": {
     "type": "git",
-    "url": "https://github.com/olaronymax/docker-monitoring-script"
+    "url": "https://github.com/olaronymax/Check-Docker-Restart"
   },
   "dependencies": {
     "axios": "^1.4.0",
